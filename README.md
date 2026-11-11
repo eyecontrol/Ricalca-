@@ -2,7 +2,7 @@
 
 Web app per ricalcare: apri la fotocamera posteriore, carica un'immagine, sovrapponila alla realtà e regolane la trasparenza per disegnarla su carta.
 
-**Apri l'app:** https://eyecontrol.github.io/ricalca/
+**Apri l'app:** https://eyecontrol.github.io/Ricalca-/
 
 ## Funzioni
 - Fotocamera posteriore a schermo intero (HTTPS richiesto)
